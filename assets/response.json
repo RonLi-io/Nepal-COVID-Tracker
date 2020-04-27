@@ -1,0 +1,120 @@
+{
+    "totalCases": 52,
+    "activeCases": 36,
+    "curedCases": 16,
+    "deathCases": 0,
+    "districts": [
+        {
+            "District": "Baglung",
+            "Cases": "2",
+            "Recovered": "2",
+            "Deaths": "0"
+        },
+        {
+            "District": "Bhojpur",
+            "Cases": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "District": "Chitwan",
+            "Cases": "2",
+            "Recovered": "1",
+            "Deaths": "0"
+        },
+        {
+            "District": "Dhanusa",
+            "Cases": "1",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "District": "Jhapa",
+            "Cases": "2",
+            "Recovered": "0",
+            "Deaths": "0"
+        },
+        {
+            "District": "Kailali",
+            "Cases": "4",
+            "Recovered": "3",
+            "Deaths": "0"
+        },
+        {
+            "District": "Kathmandu",
+            "Cases": "5",
+            "Recovered": "5",
+            "Deaths": "0"
+        },
+        {
+            "District": "Kanchanpur",
+            "Cases": "1",
+            "Recovered": "1",
+            "Deaths": "0"
+        },
+        {
+            "District": "Parsa",
+            "Cases": "5",
+            "Recovered": "3",
+            "Deaths": "0"
+        },
+        {
+            "District": "Rautahat",
+            "Cases": "1",
+            "Recovered": "1",
+            "Deaths": "0"
+        },
+        {
+            "District": "Udayapur",
+            "Cases": "28",
+            "Recovered": "0",
+            "Deaths": "0"
+        }
+    ],
+    "morris": [
+        {
+            "data": "XX",
+            "value": "Baglung"
+        },
+        {
+            "data": "XX",
+            "value": "Bhojpur"
+        },
+        {
+            "data": "XX",
+            "value": "Chitwan"
+        },
+        {
+            "data": "XX",
+            "value": "Dhanusa"
+        },
+        {
+            "data": "XX",
+            "value": "Jhapa"
+        },
+        {
+            "data": "XX",
+            "value": "Kailali"
+        },
+        {
+            "data": "XX",
+            "value": "Kathmandu"
+        },
+        {
+            "data": "XX",
+            "value": "Kanchanpur"
+        },
+        {
+            "data": "XX",
+            "value": "Parsa"
+        },
+        {
+            "data": "XX",
+            "value": "Rautahat"
+        },
+        {
+            "data": "XX",
+            "value": "Udayapur"
+        }
+    ]
+}
